@@ -31,3 +31,4 @@ IISc Bangalore  | [Link](https://drona.csa.iisc.ac.in/~arkapravab/courses/schedu
 IISc Bangalore - automated assembly gen | [Link](https://gitlab.com/shaktiproject/tools/aapg) | Open | 2 | Sim | tools | e
 Tsinghua University | [Link](https://github.com/oscourse-tsinghua/rcore_plus) | Open | 3 | Sim | tools | e
 Rey Juan Carlos University (Spanish only) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW |  
+RT-Thread IoT OS | [Link](https://github.com/RT-Thread/rt-thread/tree/master/bsp/hifive1)  | Open | 2 | unspecified | HW | f
