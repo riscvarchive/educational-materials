@@ -30,4 +30,5 @@ IISc Bangalore  | [Link](http://rohini.dese.iisc.ac.in/course/view.php?id=13) | 
 IISc Bangalore  | [Link](https://drona.csa.iisc.ac.in/~arkapravab/courses/schedule.html) | Reg | 1 | Unspecified | HW | c
 IISc Bangalore - automated assembly gen | [Link](https://gitlab.com/shaktiproject/tools/aapg) | Open | 2 | Sim | tools | e
 Tsinghua University | [Link](https://github.com/oscourse-tsinghua/rcore_plus) | Open | 3 | Sim | tools | e
-Rey Juan Carlos University (Spanish only) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW |  
+Rey Juan Carlos University (Spanish only) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW | 
+Nanjing University | [Link](https://github.com/NJU-ProjectN/ics-pa) | Open | 3 | Linux native | SW | a
