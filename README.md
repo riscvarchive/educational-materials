@@ -32,3 +32,4 @@ IISc Bangalore - automated assembly gen | [Link](https://gitlab.com/shaktiprojec
 Tsinghua University | [Link](https://github.com/oscourse-tsinghua/rcore_plus) | Open | 3 | Sim | tools | e
 Rey Juan Carlos University (Spanish) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW | 
 Nanjing University (Chinese) | [Link](https://github.com/NJU-ProjectN/ics-pa) | Open | 3 | Linux native | SW | a
+Nuclei System Technology (Chinese) | [Link](https://www.riscv-mcu.com/campus-campus.html) | Open | 3 | HummingBird E203 | FPGA/HW/SW | a,c,d,f
