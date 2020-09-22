@@ -32,3 +32,5 @@ IISc Bangalore - automated assembly gen | [Link](https://gitlab.com/shaktiprojec
 Tsinghua University | [Link](https://github.com/oscourse-tsinghua/rcore_plus) | Open | 3 | Sim | tools | e
 Rey Juan Carlos University (Spanish) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW | 
 Nanjing University (Chinese) | [Link](https://github.com/NJU-ProjectN/ics-pa) | Open | 3 | Linux native | SW | a
+University of Siena | [Link](https://github.com/Mariotti94/WebRISC-V) | Open | 1 | Sim | HW | e
+University of Siena | [Link](https://www3.diism.unisi.it/~giorgi/didattica/arcal1/lab-webriscv.htm) | Open | 1 | Sim | HW | a
