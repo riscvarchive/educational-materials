@@ -55,4 +55,6 @@ IISc Bangalore  | [Link](http://rohini.dese.iisc.ac.in/course/view.php?id=13) | 
 IISc Bangalore  | [Link](https://drona.csa.iisc.ac.in/~arkapravab/courses/schedule.html) | Reg | 1 | Unspecified | HW | c
 IISc Bangalore - automated assembly gen | [Link](https://gitlab.com/shaktiproject/tools/aapg) | Open | 2 | Sim | tools | e
 Nanjing University (Chinese) | [Link](https://github.com/NJU-ProjectN/ics-pa) | Open | 3 | Linux native | SW | a
+University of Siena | [Link](https://github.com/Mariotti94/WebRISC-V) | Open | 1 | Sim | HW | e
+University of Siena | [Link](https://www3.diism.unisi.it/~giorgi/didattica/arcal1/lab-webriscv.htm) | Open | 1 | Sim | HW | a
 Nuclei System Technology (Chinese) | [Link](https://www.riscv-mcu.com/campus-campus.html) | Open | 3 | HummingBird E203 | FPGA/HW/SW | a,c,d,f
