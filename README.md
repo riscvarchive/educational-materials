@@ -17,6 +17,7 @@ UC Irvine | [Link](https://canvas.eee.uci.edu/courses/7673/assignments/syllabus)
 MIT | [Link](http://csg.csail.mit.edu/6.375/6_375_2016_www/handouts.html) | Open | 2 | Sim | HW | a,f
 Boston University | [Link](http://ascslab.org/courses/ec413/index.html) | Open | 1 | Sim | HW | f
 Boston University | [Link](http://ascslab.org/courses/ec513/index.html) | Open | 1 | Sim | HW | a,c,f
+Redwood EDA | [Link](https://github.com/stevehoover/RISC-V_MYTH_Workshop) | Open | 1-2 | [Makerchip](https://www.makerchip.com) | HW | c,e
 
 
 ## Courses that use RISC-V
@@ -41,6 +42,7 @@ Susquehanna University | [Link](https://facstaff.susqu.edu/brakke/comparch-syl.t
 MIT | [Link](http://csg.csail.mit.edu/6.175/labs/lab5-riscv-intro.html) | Open | 2 | FPGA | HW | a
 Tsinghua University | [Link](https://github.com/oscourse-tsinghua/rcore_plus) | Open | 3 | Sim | tools | e
 Rey Juan Carlos University (Spanish) | [Link](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki) | Open | 1 | Sim/FPGA | SW |
+Redwood EDA/VLSI System Design | [Link](https://www.vlsisystemdesign.com/riscv-based-myth/) | Reg | 1-2 | [VSD-IAT](https://www.vlsisystemdesign.com/vsd-iat/) | Sim/HW | c,e
 
 ## Uncategorized
 
