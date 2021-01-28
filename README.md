@@ -18,6 +18,7 @@ MIT | [Link](http://csg.csail.mit.edu/6.375/6_375_2016_www/handouts.html) | Open
 Boston University | [Link](http://ascslab.org/courses/ec413/index.html) | Open | 1 | Sim | HW | f
 Boston University | [Link](http://ascslab.org/courses/ec513/index.html) | Open | 1 | Sim | HW | a,c,f
 Redwood EDA | [Link](https://github.com/stevehoover/RISC-V_MYTH_Workshop) | Open | 1-2 | [Makerchip](https://www.makerchip.com) | HW | c,e
+EmuliV Simulator | [Working Instance](https://guillaume-savaton-eseo.github.io/emulsiV/) [GitHub](https://github.com/Guillaume-Savaton-ESEO/emulsiV) | Open ([MPL2.0](https://github.com/Guillaume-Savaton-ESEO/emulsiV/blob/master/LICENSE)) | 1 | Sim | HW | e
 
 
 ## Courses that use RISC-V
