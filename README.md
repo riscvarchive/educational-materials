@@ -8,6 +8,7 @@ Introduction to RISC-V (LFD110x) | [Link](https://www.edx.org/course/introductio
 Building a RISC-V CPU Core (LFD111x) | [Link](https://www.edx.org/course/building-a-risc-v-cpu-core) | Open | 2 | HW | course | b,c,d,e
 RISC-V Online Tutor | [Link](https://www.vicilogic.com/vicilearn/run_step/?c_id=36) | Open | 1-2 | FPGA Access Provided | course | a,b,c,d,e,f
 Udemy | [Link](https://www.udemy.com/vsd-riscv-instruction-set-architecture-isa-part-1b/) | Paid | 2 | Sim | course | a,d
+Maven Silicon | [Link](https://elearn.maven-silicon.com/risc-v) | Paid | 2 | Sim | HW/Sim | a,c,d,e,f
 
 ## Online Materials
 
