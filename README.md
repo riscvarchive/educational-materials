@@ -1,3 +1,5 @@
+# ALERT - THIS REPO IS ARCHIVED. If you would like to submit content, please send email to content@riscv.org.
+
 # RISC-V Educational Materials
 
 ## Interactive Online Courses
